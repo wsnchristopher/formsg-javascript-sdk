@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> The FormSG SDK is now published as part of the FormSG monorepo [here](https://github.com/opengovsg/FormSG/tree/develop/packages/sdk).
+> This repository is archived for historical purposes.
+
 _Please note that this is an SDK for webhooks integration, and_ **_not_** _the FormSG system._
 
 [![Coverage Status](https://coveralls.io/repos/github/opengovsg/formsg-javascript-sdk/badge.svg?branch=master)](https://coveralls.io/github/opengovsg/formsg-javascript-sdk?branch=master)
